@@ -1,6 +1,8 @@
 # CONTROL | Asynchronous Gradients
 Random asynchronous suit recolours.
 
+<img src="https://imgur.com/NjW7oh6.png" alt="Black and Red" style="height:400px;"> <img src="https://imgur.com/6SSl9oL.png" alt="Black and Pale Dogwood Baker-Miller Pink" style="height:400px;"> <img src="https://imgur.com/16OUDrg.png" alt="Black and Red Gradient" style="height:400px;"> <img src="https://imgur.com/chJGVk0.png" alt="White and Black Gradient" style="height:400px;"> <img src="https://imgur.com/lYVMNk8.png" alt="White and Blue 1" style="height:400px;"> <img src="https://imgur.com/n629DA4.png" alt="White and Blue 2" style="height:400px;"> <img src="https://imgur.com/mQiJWN3.png" alt="White and Green Yellow Folly" style="height:400px;"> <img src="https://imgur.com/Vdi1uv4.png" style="height:400px;">
+
 Installation Instructions
 ------
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
